@@ -1,0 +1,30 @@
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.exe
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.deps.json
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.runtimeconfig.json
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\ref\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.pdb
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.csproj.AssemblyReference.cache
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.AssemblyInfoInputs.cache
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.AssemblyInfo.cs
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.csproj.CoreCompileInputs.cache
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\ref\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.pdb
+C:\Users\Tino\source\repos\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.exe
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.deps.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.runtimeconfig.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\ref\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\bin\Debug\net6.0\2ZP_M326_Tino_Stoeckli.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.csproj.AssemblyReference.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.AssemblyInfoInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.AssemblyInfo.cs
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.csproj.CoreCompileInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\ref\2ZP_M326_Tino_Stoeckli.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 1 Srategy_Muster M326_Ente\2ZP_M326_Tino_Stoeckli\2ZP_M326_Tino_Stoeckli\obj\Debug\net6.0\2ZP_M326_Tino_Stoeckli.genruntimeconfig.cache
